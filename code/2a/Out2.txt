@@ -1,0 +1,3 @@
+Archivo analizado: App.java
+Líneas de código contadas: 4
+Métodos contados: 1
